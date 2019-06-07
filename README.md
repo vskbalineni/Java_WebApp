@@ -1,3 +1,4 @@
+[![Build Status](https://cmie.visualstudio.com/Infrastructure%20DevOps/_apis/build/status/vskbalineni.Java_WebApp?branchName=master)](https://cmie.visualstudio.com/Infrastructure%20DevOps/_build/latest?definitionId=73&branchName=master)
 
 # Contributing
 
